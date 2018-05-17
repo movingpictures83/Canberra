@@ -1,0 +1,2 @@
+Prefix plugins/Canberra/example/
+Plugin Canberra inputfile abundN.csv outputfile abundN.canberra.csv
