@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (network)
 # Output: CSV (distances)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: vegan_2.5.6
 
 PluMa plugin that computes dissimilarity by using the Canberra distance (Lance and Williams, 1966) between samples.
 
